@@ -80,7 +80,7 @@ Start the Development Server:
 Run the development server to see your React app in action:
 
 npm start
-This command will start the development server, and you can view your React app by visiting http://localhost:3000 in your web browser.
+This command will start the development server, and you can view your React app by visiting in your web browser.
 
 Start Building Components:
 Open the src directory in your project, and you'll find index.js and App.js. index.js is the entry point to your React app, and App.js is the main component. Start building your components in src and use them in App.js.
